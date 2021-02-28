@@ -8,6 +8,10 @@
   flex-direction: column;
 }
 
+.darkMode {
+  background: black;
+}
+
 .container section {
   flex: 1;
   display: grid;
